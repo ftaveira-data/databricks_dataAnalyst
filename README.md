@@ -3,6 +3,14 @@
 ## 📘 About the Course
 This Data Engineering course is focused on integrating the power of Apache Spark with the ease of Pandas for large-scale data manipulation. Throughout the course, we will cover crucial topics such as the differences between Pandas and Spark, large-scale data manipulation with Pandas using Spark, and creating visualizations with Plotly and the Spark Pandas API. The course is part of my learning path in the Databricks training offered by Alura, a leading technology education platform.
 
+In this course, we covered the Pandas API in PySpark. In this regard, we learned about the functionalities of Pandas in PySpark, instead of conventional Pandas. We learned best practices for working with this library in Databricks.
+
+We learned how to read, visualize, and query data, using different methods to carry out this process.
+
+We worked with Prouni data, with which we made comparisons between variables; read and wrote files; and also learned how to make our results available through dashboards.
+
+We did all this by applying best practices in Databricks, simulating work in a big data situation, where Databricks is really necessary.
+
 ### 🎯 Goals
 - Learn to integrate Spark with Pandas for large-scale data manipulation.
 - Understand the differences between Pandas and Spark.
